@@ -1,0 +1,31 @@
+#main{
+width: 20%;
+height: 80%;
+background-color:black;
+text-align: center;
+color:white;
+padding-top: 20px;
+
+}
+#image{
+    width: ;
+    height: ;
+    border-radius: 50%;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+}
+#lieu{
+    color: greenyellow;
+}
+button{
+    width: 80%;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: gray;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
